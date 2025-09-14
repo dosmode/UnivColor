@@ -51,7 +51,7 @@ If you want to contribute this project and make it more awesome, just add color 
 * University of Rochester
 * [University of St-Gallen](https://www.unisg.ch/en)
 * [University of Texas at Austin](https://www.utexas.edu/)
-* University of Texas Rio Grande Valley
+* [University of Texas Rio Grande Valley](https://www.utrgv.edu/)
 * University of Tsukuba
 * University of Washington
 * University of Waterloo
